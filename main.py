@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from sellers import SellerManager
 from cars import CarManager
 from customers import CustomerManager
